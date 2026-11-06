@@ -1,0 +1,6 @@
+[submodule "book-service-night"]
+	path = book-service-night
+	url = https://github.com/rblaha-dunwoody/book-service-night.git
+[submodule "ryanSimpleBookService"]
+	path = ryanSimpleBookService
+	url = https://github.com/rblaha-dunwoody/ryanSimpleBookService.git
